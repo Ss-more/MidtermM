@@ -1,1 +1,2 @@
 answer 1: switch is a newer command and checkout is an older command thats capable of doing more than just switching branches
+Answer 2: Git merge combines the changes of the new branch into the main branch
