@@ -1,0 +1,1 @@
+answer 1: switch is a newer command and checkout is an older command thats capable of doing more than just switching branches
